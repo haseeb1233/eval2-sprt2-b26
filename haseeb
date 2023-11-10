@@ -1,0 +1,6 @@
+In Python, we can convert the code to a for loop using the range() function. Here's the equivalent code in Python:
+
+```python
+for i in range(5):
+    print(i)
+```
